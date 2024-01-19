@@ -21,10 +21,10 @@ conda planet lanternworld
 ```
 
 #Data
-The notebooks use a cleaned and trimmed down version of the database (lanternworlddata.tsv). Please email the authors if you need a more extensive version of the data.
+The notebooks use a cleaned and trimmed down version of the database (lanternworlddata.tsv). This dataset can also be found at 10.5281/zenodo.10532258 Please email the authors if you need a more extensive version of the data.
 
 #Use
-Please use the notebooks in what ever order you like. The names of the notebooks correspond to different sections of the article
+Please use the notebooks in whatever order you like. The names of the notebooks correspond to different sections of the article
 
 # Cite
-If you want, you can cite the article for which this code was written or this repository via the DOI:  
+If you want, you can cite the article for which this code was written or this repository. 
